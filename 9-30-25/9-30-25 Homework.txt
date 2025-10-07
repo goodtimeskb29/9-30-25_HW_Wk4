@@ -1,0 +1,6 @@
+9-30-25 Homework
+
+Khris Batiste 					
+VPC:	10.10.0.0/16	Subnet	AZ1	AZ2	AZ3
+			Public	10.10.1.0/24	10.10.2.0/24	10.10.3.0/24
+			Private	10.10.11.0/24	10.10.12.0/24	
